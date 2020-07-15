@@ -59,6 +59,4 @@ Hi, I'm Subhajit Das, 2020 graduated Computer Science Engineer 🚀 from India, 
 
 ![Subhajit's github stats](https://github-readme-stats.vercel.app/api?username=sdsubhajitdas&show_icons=true&hide_border=true&hide=[%22contribs%22]&line_height=28)
 
-[![HitCount](http://hits.dwyl.com/sdsubhajitdas/sdsubhajitdas.svg)](http://hits.dwyl.com/sdsubhajitdas/sdsubhajitdas)
-
 Give a ⭐️ to my pinned repositories, if you like my work.
