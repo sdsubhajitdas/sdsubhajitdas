@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Subhajit!](https://sdsubhajitdas.github.io/)
 
 <div style="width:100%;position:relative;padding-bottom:3%" >
-	<img align="center" src="https://github.com/sdsubhajitdas/sdsubhajitdas/raw/master/banner-optimize.gif">
+	<img align="center" src="https://github.com/sdsubhajitdas/sdsubhajitdas/raw/master/banner900.gif">
 </div>
 <br />
 
